@@ -40,5 +40,13 @@
         "image": "gyroboard-white.jpg",
         "description": "White gyroboard with blue lights",
         "price": 829.99
+    },
+    
+    {
+        "id": "7",
+        "title": "Helmet",
+        "image": "product.jpg",
+        "description": "Nice healmet",
+        "price": 229.99
     }
 ]
